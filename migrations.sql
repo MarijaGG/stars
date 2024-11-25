@@ -27,4 +27,3 @@ VALUES
 ("1", "stars2.png");
 
 SELECT * FROM stars;
-

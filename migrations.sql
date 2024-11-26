@@ -27,3 +27,8 @@ VALUES
 ("1", "stars2.png");
 
 SELECT * FROM stars;
+
+CREATE TABLE clicks (
+   id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+   clickers INT
+);
